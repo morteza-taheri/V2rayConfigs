@@ -20,7 +20,7 @@ vless://7d938228-0ee2-4758-9f33-1a6c6592b791@72.56.65.210:40443?security=reality
 trojan://XG59623478@regular-raptor.rooster465.autos:443?security=tls#🏳️ Unknown - 07
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@85.208.108.59:6697#🇨🇦 Canada - 01
 vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=/downloader&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com#🇩🇪 Germany Gunzenhausen - 01
-vless://7be30ab7-2077-4115-f6cb-125226afd3c9@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪 Germany - 03
+vless://7be30ab7-2077-4115-f6cb-125226afd3c9@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?ed=8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#🇩🇪 Germany - 08
 trojan://4e4910ec52552e36aa43a870a179da83@13.230.33.22:17005?security=tls&sni=www.nintendogames.net#🏳️ Unknown - 08
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.180.229.83:443#🇫🇷 France - 01
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.66:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&type=tcp&headerType=none#🇵🇱 Poland Warsaw - 01
