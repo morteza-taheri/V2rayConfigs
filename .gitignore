@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But do not ignore these
+!Morteza_Taheri.txt
+!.gitignore
+!push_configs.bat
